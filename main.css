@@ -1,0 +1,34 @@
+.card{
+    margin: 1% auto;
+    border:1px solid #ddd;
+    width:50%;
+    padding:1%;
+    text-align:center;
+    box-shadow:0px 8px 8px 8px #000000;
+
+
+}
+a{
+    text-decoration: none;
+    color:greenyellow;
+}
+.btn{
+    display: black;
+    background:rgb(47, 213, 255);
+    color: honeydew;
+    padding: 1%;
+    text-align: center;
+    margin-top: 50%;
+}
+@media only screen and (min-width:320px) and (max-width:460px){
+    .card{
+        margin: 1% auto;
+        border:1px solid #ddd;
+        width:50%;
+        padding:1%;
+        text-align:center;
+        box-shadow:0px 8px 8px 8px #000000;
+    
+    
+    }
+}
